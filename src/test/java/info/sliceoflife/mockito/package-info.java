@@ -5,4 +5,4 @@
  * 
  * @author ronaldkonjer (ronaldkonjer@gmail.com)
  */
-package info.sliceoflife.junit.helper;
+package info.sliceoflife.mockito;
